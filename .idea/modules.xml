@@ -5,6 +5,7 @@
       <module fileurl="file://$PROJECT_DIR$/.idea/ssmcode.iml" filepath="$PROJECT_DIR$/.idea/ssmcode.iml" />
       <module fileurl="file://$PROJECT_DIR$/ssmcode_common/ssmcode_common.iml" filepath="$PROJECT_DIR$/ssmcode_common/ssmcode_common.iml" />
       <module fileurl="file://$PROJECT_DIR$/ssmcode_manager/ssmcode_manager.iml" filepath="$PROJECT_DIR$/ssmcode_manager/ssmcode_manager.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ssmcode_manager/ssmcode_manager_dao/ssmcode_manager_dao.iml" filepath="$PROJECT_DIR$/ssmcode_manager/ssmcode_manager_dao/ssmcode_manager_dao.iml" />
       <module fileurl="file://$PROJECT_DIR$/ssmcode_manager/ssmcode_manager_mapper/ssmcode_manager_mapper.iml" filepath="$PROJECT_DIR$/ssmcode_manager/ssmcode_manager_mapper/ssmcode_manager_mapper.iml" />
       <module fileurl="file://$PROJECT_DIR$/ssmcode_manager/ssmcode_manager_pojo/ssmcode_manager_pojo.iml" filepath="$PROJECT_DIR$/ssmcode_manager/ssmcode_manager_pojo/ssmcode_manager_pojo.iml" />
       <module fileurl="file://$PROJECT_DIR$/ssmcode_manager/ssmcode_manager_service/ssmcode_manager_service.iml" filepath="$PROJECT_DIR$/ssmcode_manager/ssmcode_manager_service/ssmcode_manager_service.iml" />

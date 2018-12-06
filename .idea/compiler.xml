@@ -7,6 +7,7 @@
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
         <module name="ssmcode_common" />
+        <module name="ssmcode_manager_dao" />
         <module name="ssmcode_manager_mapper" />
         <module name="ssmcode_manager_pojo" />
         <module name="ssmcode_manager_service" />
@@ -20,6 +21,7 @@
     <bytecodeTargetLevel>
       <module name="ssmcode_common" target="1.8" />
       <module name="ssmcode_manager" target="1.8" />
+      <module name="ssmcode_manager_dao" target="1.8" />
       <module name="ssmcode_manager_mapper" target="1.8" />
       <module name="ssmcode_manager_pojo" target="1.8" />
       <module name="ssmcode_manager_service" target="1.8" />
