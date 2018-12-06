@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/ssmcode.iml" filepath="$PROJECT_DIR$/.idea/ssmcode.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ssmcode_common/ssmcode_common.iml" filepath="$PROJECT_DIR$/ssmcode_common/ssmcode_common.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ssmcode_manager/ssmcode_manager.iml" filepath="$PROJECT_DIR$/ssmcode_manager/ssmcode_manager.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ssmcode_manager/ssmcode_manager_mapper/ssmcode_manager_mapper.iml" filepath="$PROJECT_DIR$/ssmcode_manager/ssmcode_manager_mapper/ssmcode_manager_mapper.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ssmcode_manager/ssmcode_manager_pojo/ssmcode_manager_pojo.iml" filepath="$PROJECT_DIR$/ssmcode_manager/ssmcode_manager_pojo/ssmcode_manager_pojo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ssmcode_manager/ssmcode_manager_service/ssmcode_manager_service.iml" filepath="$PROJECT_DIR$/ssmcode_manager/ssmcode_manager_service/ssmcode_manager_service.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ssmcode_manager/ssmcode_manager_web/ssmcode_manager_web.iml" filepath="$PROJECT_DIR$/ssmcode_manager/ssmcode_manager_web/ssmcode_manager_web.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ssmcode_parent/ssmcode_parent.iml" filepath="$PROJECT_DIR$/ssmcode_parent/ssmcode_parent.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ssmcode_redis/ssmcode_redis.iml" filepath="$PROJECT_DIR$/ssmcode_redis/ssmcode_redis.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ssmcode_rest/ssmcode_rest.iml" filepath="$PROJECT_DIR$/ssmcode_rest/ssmcode_rest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ssmcode_search/ssmcode_search.iml" filepath="$PROJECT_DIR$/ssmcode_search/ssmcode_search.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ssmcode_sso/ssmcode_sso.iml" filepath="$PROJECT_DIR$/ssmcode_sso/ssmcode_sso.iml" />
+    </modules>
+  </component>
+</project>
